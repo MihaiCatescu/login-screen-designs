@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Mandali', sans-serif;
+}
+
+.title {
+    background: -webkit-linear-gradient(#eee, #039be5);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+a:hover {
+    text-decoration: none;
+}
